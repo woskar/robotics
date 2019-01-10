@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall   CMakeFiles/kuka_trace.dir/main_kuka_trace.cpp.o CMakeFiles/kuka_trace.dir/paddle.cpp.o  -o kuka_trace -rdynamic /usr/local/lib/librbdl.so /usr/local/lib/librbdl_luamodel.so -llua5.1 -lm -Wl,-rpath,/usr/local/lib 

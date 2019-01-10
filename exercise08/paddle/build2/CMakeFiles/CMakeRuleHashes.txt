@@ -1,0 +1,9 @@
+# Hashes of file build rules.
+0081b6b92229c8398b863260f4af450b CMakeFiles/COPY_kuka.obj
+0081b6b92229c8398b863260f4af450b CMakeFiles/COPY_kuka_paddle.lua
+0081b6b92229c8398b863260f4af450b CMakeFiles/COPY_motion-paddle_only.txt
+0081b6b92229c8398b863260f4af450b CMakeFiles/COPY_paddle_only.lua
+7bd4bf654cfc8ddd1682d665e4e88e18 kuka_paddle.lua
+d3127a8c74ef5170133a7bf901518323 meshes/kuka.obj
+62a506a07ba52af26b3b07261fda23ff motion-paddle_only.txt
+268e5f3a29af78cfb8584b9cf192f83b paddle_only.lua

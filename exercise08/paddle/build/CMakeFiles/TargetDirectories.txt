@@ -1,0 +1,8 @@
+/home/robo/exercise08/paddle/build/CMakeFiles/edit_cache.dir
+/home/robo/exercise08/paddle/build/CMakeFiles/kuka_trace.dir
+/home/robo/exercise08/paddle/build/CMakeFiles/COPY_motion-paddle_only.txt.dir
+/home/robo/exercise08/paddle/build/CMakeFiles/paddle_only.dir
+/home/robo/exercise08/paddle/build/CMakeFiles/COPY_paddle_only.lua.dir
+/home/robo/exercise08/paddle/build/CMakeFiles/COPY_kuka_paddle.lua.dir
+/home/robo/exercise08/paddle/build/CMakeFiles/rebuild_cache.dir
+/home/robo/exercise08/paddle/build/CMakeFiles/COPY_kuka.obj.dir

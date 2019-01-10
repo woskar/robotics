@@ -1,0 +1,19 @@
+## ||-----------------------------------------------------------------||
+##                      ...::: Exercice 3 :::...
+## ||-----------------------------------------------------------------||
+#
+## Motion configuration file
+#
+COLUMNS:
+Time, 
+Ball:T:X, 
+Ball:T:Y, 
+Ball:T:Z, 
+Paddle:T:X, 
+Paddle:T:Y, 
+Paddle:T:Z, 
+Paddle:R:Z:r, 
+Paddle:R:X:r, 
+Paddle:R:Z:r, 
+
+DATA_FROM:animation_paddle_only.csv

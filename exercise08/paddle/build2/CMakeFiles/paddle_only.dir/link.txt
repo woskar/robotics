@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall   CMakeFiles/paddle_only.dir/main_paddle_only.cpp.o CMakeFiles/paddle_only.dir/paddle.cpp.o  -o paddle_only -rdynamic 
